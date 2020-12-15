@@ -8,7 +8,6 @@
     "start": "node index.js",
     "lint": "eslint ./",
     "lint:fix": "eslint ./ --fix",
-    "precommit": "lint-staged",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "husky": {
@@ -21,8 +20,7 @@
     "Architecture",
     "DDD",
     "School",
-    "API",
-    "SOLID"
+    "API"
   ],
   "author": "Jhonnar Rodriguez",
   "license": "ISC",
